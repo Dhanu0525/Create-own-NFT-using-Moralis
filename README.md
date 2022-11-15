@@ -5,6 +5,6 @@ From moralis we are going to hash of the file and url who has ipfs gateway.
 Install requirements file in your desired folder.
 Use python -m flask run command to run the program
 So moralis has new version now which doesnot have server and server url like previous version.
-I followed https://www.youtube.com/watch?v=l2qTyc-V9cM - to create a server in moralis and got the server url from that.
+I have followed https://www.youtube.com/watch?v=l2qTyc-V9cM - to create a server in moralis and got the server url from that.
 I am going to attach the folder which I used for server creation.
 Following all these steps you can connect it with metamask and create NFT.
